@@ -1,0 +1,32 @@
+.table {
+  background-color: #fff;
+  flex-direction: row;
+  margin: 5px auto;
+  display: flex;
+  padding: 10px;
+  color: #000;
+  height: 100px;
+  width: 90%;
+}
+
+.date {
+  padding: 10px;
+  width: 12%;
+}
+
+.author {
+  padding: 10px;
+  width: 13%;
+}
+
+.message {
+  overflow: hidden;
+  padding: 10px;
+  width: 35%;
+}
+
+.url {
+  overflow: hidden;
+  padding: 10px;
+  width: 40%;
+}
